@@ -1,5 +1,4 @@
-# Imports
-
+# Imports those library
 import cv2
 import mediapipe as mp
 import pyautogui
